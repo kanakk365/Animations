@@ -1,8 +1,8 @@
 
-import Content3 from "./content/Content3";
+import Content4 from "./content/Content4";
 
 export default function Home() {
   return <div>
-    <Content3/>
+    <Content4/>
   </div>;
 }

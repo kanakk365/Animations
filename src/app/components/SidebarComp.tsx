@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { ChildProcess } from "child_process";
 
 interface SidebarCompProps {
   isOpen: boolean;
